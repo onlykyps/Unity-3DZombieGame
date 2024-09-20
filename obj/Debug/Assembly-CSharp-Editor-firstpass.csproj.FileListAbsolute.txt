@@ -1,0 +1,2 @@
+d:\Dropbox\My Games\DinMers\New Unity Project\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+d:\Dropbox\My Games\DinMers\New Unity Project\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
